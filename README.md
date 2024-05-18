@@ -1,4 +1,4 @@
-# Movie App Analytics Case
+# Movie App Invent Analytics Case
 This project is a web application developed to analyze a movie database. This README file provides information on how to run the project and its basic usage.
 
 ## Installation
@@ -9,6 +9,8 @@ git clone https://github.com/kaannbass/invent-analytics.git
 Then navigate to the project directory and install the necessary dependencies:
 ```bash
 cd invent-analytics
+```
+```bash
 npm install
 ```
 # Running the Application
