@@ -8,7 +8,7 @@ git clone https://github.com/kaannbass/movie-app.git
 ```
 Then navigate to the project directory and install the necessary dependencies:
 ```bash
-cd invent-analytics
+cd movie-app
 ```
 ```bash
 npm install
