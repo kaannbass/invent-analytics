@@ -4,7 +4,7 @@ This project is a web application developed to analyze a movie database. This RE
 ## Installation
 Begin by cloning the project to your local machine:
 ```bash
-git clone https://github.com/kaannbass/invent-analytics.git
+git clone https://github.com/kaannbass/movie-app.git
 ```
 Then navigate to the project directory and install the necessary dependencies:
 ```bash
