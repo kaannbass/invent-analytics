@@ -1,4 +1,4 @@
-# Movie App Invent Analytics Case
+# Movie App
 This project is a web application developed to analyze a movie database. This README file provides information on how to run the project and its basic usage.
 
 ## Installation
